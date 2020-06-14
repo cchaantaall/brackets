@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/cchaantaall/brackets.png?label=ready&title=Ready)](https://waffle.io/cchaantaall/brackets)
 Welcome to Brackets! [![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)
 -------------------
 
